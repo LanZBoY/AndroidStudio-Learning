@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="Hint_Message">請輸入訊息</string>
+    <string name="Default_Message">Message</string>
+    <string name="Display_Here">DisplayHere</string>
+    <string name="Send_Display">Send</string>
+    <string name="Toast">Toast</string>
+    <string name="Count">Count</string>
+    <string name="init_number">0</string>
+    <string name="other">Other</string>
+</resources>
